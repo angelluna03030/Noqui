@@ -15,7 +15,7 @@ class _NequiAntiScamChatState extends State<NequiAntiScamChat>
   final List<ChatMessage> _messages = [];
   bool _isTyping = false;
 
-  final String _apiKey = 'sk-d3909c54cf204e489e5d567abeea76cf';
+  final String _apiKey = 'aqui va tu apikey de deepseek';
   final String _systemPrompt = '''
 Eres Noqui, un asistente de IA especializado en seguridad financiera de Nequi (banco digital colombiano).
 
