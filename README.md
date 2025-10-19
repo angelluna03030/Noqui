@@ -1,4 +1,4 @@
-# 🛡️ Noqui Scam Shield - App Anti-Estafas
+# 🛡️ Noqui - App Anti-Estafas
 
 <div align="center">
 
